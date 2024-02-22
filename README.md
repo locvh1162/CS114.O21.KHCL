@@ -12,7 +12,7 @@
 * **Tên môn học**: Máy học - Machine Learning
 * **Mã môn học**: CS114
 * **Khoa quản lý**: Khoa học máy tính
-* **Lớp học**: CS114.M13.KHCL
+* **Lớp học**: CS114.O21.KHCL
 * **Học kì**: 2
 * **Năm học**: 2023-2024
 
