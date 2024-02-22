@@ -19,7 +19,7 @@
 <a name="giangvienhuongdan"></a>
 ## Giảng viên
 * Thầy **Lê Đình Duy** - *duyld@uit.edu.vn*
-* Thầy **Phạm Nguyễn Trường An** - *anpnt@uit.edu.vn*
+* Thầy **Phạm Nguyễn Trường An** - *truonganpn@uit.edu.vn*
 
 <a name="doancuoiky"></a>
 ## Đồ án cuối kì
