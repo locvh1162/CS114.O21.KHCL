@@ -29,5 +29,8 @@
 
 | STT | MSSV     | Name           | Github                                    | Email                  |
 |:----|:---------|:---------------|:------------------------------------------|:-----------------------|
-| 1   | 20521553 | Võ Hoàng Lộc   | [locvh1162](https://github.com/locvh1162) | 20521553@gm.uit.edu.vn |
+| 1   | 19521708 | Nguyễn Đăng Khôi   | [Valorya](https://github.com/Valorya) | 19521708@gm.uit.edu.vn |
+| 2   | 20521553 | Võ Hoàng Lộc   | [locvh1162](https://github.com/locvh1162) | 20521553@gm.uit.edu.vn |
+| 3   | 20522117 | Nguyễn Đức Tuấn   | [ZeusSamaa](https://github.com/ZeusSamaa) | 20522117@gm.uit.edu.vn |
+| 4   | 21522586 | Dương Việt Thắng   | [Dinont2210](https://github.com/Dinont2210) | 21522586@gm.uit.edu.vn |
 
